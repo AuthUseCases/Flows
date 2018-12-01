@@ -8,6 +8,7 @@ The locker has a TTL and upon expiration it and its contents evaporate.
 
 
 [sequence diagram](http://liveuml.com/diagram/view/5c02b01937ecd3087ea64b1c)
+![Image of Yaktocat](c298b3cba7b9.png)
 
 ```
 @startuml
