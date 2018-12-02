@@ -4,7 +4,7 @@ In this use case a mobile app logins in a user via a federated IDP.  The only th
 Later the MobileApp intends to call a gated service and must trade in a valid id_token for access_tokens to the service.
 The FederatedIDP has no knowledge of the final intent.  The service is the only entity that makes an association between an identity and the allowed services.
 
-The following [POC call](https://p7identityserver4.azurewebsites.net/docs/arbitrary_resource_owner.md) is used to mint the access_token to the locker.
+The following [POC call](https://p7identityserver4.azurewebsites.net/docs/arbitrary_resource_owner.md) is used to mint the access_token to some service.
 
  
 ![Sequence Diagram](15a645957682.png)
