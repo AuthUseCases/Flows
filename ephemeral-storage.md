@@ -1,4 +1,4 @@
-# Effemoral Storage Usecase
+# Ephemeral Storage Usecase
 This is modeled on a real world scenario, where Amazon suggests that you use an effemoral locker at WholeFoods as your shipping address.
 Arguable they really want to do this so you buy overpriced cheese, but for those of us that have porch theives its a nice service.
 
